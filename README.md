@@ -17,12 +17,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ---
 
 ## A
-- [Akash Kumar](https://github.com/akashfit2max)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/akash.png">
-  </details>
-
 
 - [Abhinav Sharma](https://github.com/ABSphreak)
   <details>
