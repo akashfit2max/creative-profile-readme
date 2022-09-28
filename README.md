@@ -435,6 +435,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/peterthehan.png">
   </details>
+
+- [Philippe Henrique](https://github.com/srphilippe)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/srphilippe.webp">
+  </details>
+  
 - [Piyush Suthar](https://github.com/piyushsuthar)
   <details>
     <summary>Preview</summary>
